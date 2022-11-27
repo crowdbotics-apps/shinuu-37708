@@ -10,7 +10,7 @@ export default Untitled4;
 
 const _styles = StyleSheet.create({
   uLPMQMwC: {
-    backgroundColor: "#f0f0f1",
+    backgroundColor: "#ffffff",
     padding: 10,
     position: "relative",
     height: "100%"

@@ -10,7 +10,7 @@ export default Untitled3;
 
 const _styles = StyleSheet.create({
   urOKQkAj: {
-    backgroundColor: "#aae083",
+    backgroundColor: "#ffffff",
     padding: 10,
     position: "relative",
     height: "100%"

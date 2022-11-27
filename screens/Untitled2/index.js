@@ -10,7 +10,7 @@ export default Untitled2;
 
 const _styles = StyleSheet.create({
   MmLgxBaj: {
-    backgroundColor: "#aae083",
+    backgroundColor: "#ffffff",
     padding: 10,
     position: "relative",
     height: "100%"
