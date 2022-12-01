@@ -5,7 +5,7 @@ import { View, StyleSheet } from "react-native";
 
 const Untitled5 = () => {
   return <View style={_styles.YtzVXevu}>
-      <Text style={_styles.CrzQFvlg}>Gmail</Text><Text style={_styles.TYmMJduQ}>Password</Text><TextInput style={_styles.hXPQrlHV}></TextInput><TextInput style={_styles.MEuJKrmD}></TextInput></View>;
+      <Text style={_styles.CrzQFvlg}>Username</Text><Text style={_styles.TYmMJduQ}>Password</Text><TextInput style={_styles.hXPQrlHV}></TextInput><TextInput style={_styles.MEuJKrmD}></TextInput></View>;
 };
 
 export default Untitled5;
@@ -28,10 +28,10 @@ const _styles = StyleSheet.create({
     top: 189
   },
   CrzQFvlg: {
-    left: 31,
-    top: 249,
+    left: 19,
+    top: 252,
     position: "absolute",
-    width: 60,
+    width: 90,
     height: 24,
     lineHeight: 14,
     fontSize: 16,
@@ -52,8 +52,8 @@ const _styles = StyleSheet.create({
     fontWeight: "500"
   },
   TYmMJduQ: {
-    left: 23,
-    top: 309,
+    left: 16,
+    top: 304,
     position: "absolute",
     width: 90,
     height: 26,
