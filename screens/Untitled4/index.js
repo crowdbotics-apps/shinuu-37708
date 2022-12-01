@@ -207,7 +207,7 @@ const _styles = StyleSheet.create({
     fontSize: 16,
     borderRadius: 0,
     position: "absolute",
-    left: 140,
+    left: 148,
     top: 475,
     fontWeight: "700",
     letterSpacing: 2,
