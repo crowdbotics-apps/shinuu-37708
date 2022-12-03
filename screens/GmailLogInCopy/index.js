@@ -113,8 +113,15 @@ const _styles = StyleSheet.create({
     textAlign: "center"
   },
   hvRWmtHA: {
-    left: 22,
-    top: 76,
+    left: 24,
+    top: 59,
+    position: "absolute",
+    width: 105,
+    height: 67
+  },
+  CgiudxtJ: {
+    left: 17,
+    top: 17,
     position: "absolute",
     width: 105,
     height: 67
