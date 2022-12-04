@@ -78,7 +78,7 @@ const _styles = StyleSheet.create({
   },
   NRwZkDfd: {
     left: 16,
-    top: 161,
+    top: 179,
     position: "absolute",
     width: 323,
     height: 30,
