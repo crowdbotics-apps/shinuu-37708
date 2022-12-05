@@ -66,7 +66,7 @@ const _styles = StyleSheet.create({
     fontWeight: "500"
   },
   hXPQrlHV: {
-    left: 125,
+    left: 80.5,
     top: 245,
     position: "absolute",
     backgroundColor: "#90EE90",
@@ -76,7 +76,7 @@ const _styles = StyleSheet.create({
     color: "#ADD8E6"
   },
   MEuJKrmD: {
-    left: 125,
+    left: 80.5,
     top: 298,
     position: "absolute",
     backgroundColor: "#90EE90",

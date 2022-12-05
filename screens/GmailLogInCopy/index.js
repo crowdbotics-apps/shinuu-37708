@@ -68,7 +68,7 @@ const _styles = StyleSheet.create({
   },
   hXPQrlHV: {
     left: 80.5,
-    top: 303,
+    top: 298,
     position: "absolute",
     backgroundColor: "#90EE90",
     borderColor: "#cccccc",
