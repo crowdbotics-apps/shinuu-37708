@@ -33,7 +33,7 @@ const _styles = StyleSheet.create({
   },
   dmpzSqsb: {
     left: 103,
-    top: 591,
+    top: 602,
     position: "absolute",
     width: 169,
     height: 35,
@@ -417,7 +417,7 @@ const _styles = StyleSheet.create({
     fontWeight: "900",
     position: "absolute",
     left: 154,
-    top: 454,
+    top: 457,
     textAlign: "center"
   }
 });
