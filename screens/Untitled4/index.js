@@ -257,7 +257,7 @@ const _styles = StyleSheet.create({
     color: "#777777",
     borderColor: "#000080",
     position: "absolute",
-    left: 109,
+    left: 103.5,
     top: 337,
     borderWidth: 2
   },
@@ -271,8 +271,8 @@ const _styles = StyleSheet.create({
     letterSpacing: 2,
     fontWeight: "900",
     position: "absolute",
-    left: 41,
-    top: 10,
+    left: 40,
+    top: 12,
     textAlign: "center"
   }
 });
