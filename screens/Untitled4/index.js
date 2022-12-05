@@ -374,8 +374,8 @@ const _styles = StyleSheet.create({
     borderColor: "#000080",
     borderWidth: 2,
     position: "absolute",
-    left: 216,
-    top: 464,
+    left: 212,
+    top: 468,
     opacity: 1,
     alignItems: "center"
   },
@@ -389,8 +389,8 @@ const _styles = StyleSheet.create({
     letterSpacing: 2,
     fontWeight: "900",
     position: "absolute",
-    left: 223,
-    top: 488,
+    left: 219,
+    top: 492,
     textAlign: "center"
   },
   rECHSPSD: {
