@@ -50,8 +50,8 @@ const _styles = StyleSheet.create({
     fontSize: 10,
     borderRadius: 0,
     letterSpacing: 2,
-    fontWeight: "900",
-    color: "#B2BEB5"
+    fontWeight: "500",
+    color: "#000080"
   },
   dOaUiHCy: {
     left: 35,
@@ -135,8 +135,8 @@ const _styles = StyleSheet.create({
     fontSize: 10,
     borderRadius: 0,
     letterSpacing: 2,
-    fontWeight: "900",
-    color: "#B2BEB5"
+    fontWeight: "500",
+    color: "#000080"
   },
   ATbEzkgz: {
     left: 80,
@@ -148,8 +148,8 @@ const _styles = StyleSheet.create({
     fontSize: 10,
     borderRadius: 0,
     letterSpacing: 2,
-    fontWeight: "900",
-    color: "#B2BEB5"
+    fontWeight: "500",
+    color: "#000080"
   },
   gwgsFetX: {
     left: 17,
