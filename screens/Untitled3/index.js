@@ -176,7 +176,7 @@ const _styles = StyleSheet.create({
     borderRadius: 0,
     position: "absolute",
     left: 125,
-    top: 249
+    top: 250
   },
   CAxDllGI: {
     height: 31,
@@ -189,14 +189,14 @@ const _styles = StyleSheet.create({
     top: 288
   },
   XTwRcVsu: {
-    width: 128,
+    width: 111,
     height: 22,
     lineHeight: 14,
     fontSize: 14,
     borderRadius: 0,
     position: "absolute",
-    left: 114.5,
-    top: 292
+    left: 123,
+    top: 294
   },
   ERZYTaSb: {
     height: 31,
@@ -216,6 +216,6 @@ const _styles = StyleSheet.create({
     borderRadius: 0,
     position: "absolute",
     left: 143,
-    top: 330
+    top: 334
   }
 });
