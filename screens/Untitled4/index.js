@@ -271,7 +271,7 @@ const _styles = StyleSheet.create({
     letterSpacing: 2,
     fontWeight: "900",
     position: "absolute",
-    left: 40,
+    left: 40.5,
     top: 12,
     textAlign: "center"
   }
