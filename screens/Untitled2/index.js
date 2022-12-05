@@ -77,10 +77,10 @@ const _styles = StyleSheet.create({
     height: 67
   },
   NRwZkDfd: {
-    left: 20,
+    left: 80,
     top: 188,
     position: "absolute",
-    width: 323,
+    width: 197,
     height: 30,
     lineHeight: 21,
     fontSize: 17,

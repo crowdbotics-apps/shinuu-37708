@@ -71,7 +71,7 @@ const _styles = StyleSheet.create({
     color: "#00008B"
   },
   TytbkbFY: {
-    left: 20,
+    left: 17,
     top: 188,
     position: "absolute",
     width: 323,
@@ -153,7 +153,7 @@ const _styles = StyleSheet.create({
     fontSize: 14,
     borderRadius: 40,
     position: "absolute",
-    left: 116,
+    left: 118.5,
     top: 373,
     color: "#00008B",
     fontWeight: "700",
