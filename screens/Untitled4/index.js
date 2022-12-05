@@ -272,6 +272,7 @@ const _styles = StyleSheet.create({
     fontWeight: "900",
     position: "absolute",
     left: 41,
-    top: 11
+    top: 10,
+    textAlign: "center"
   }
 });
