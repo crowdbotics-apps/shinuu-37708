@@ -45,7 +45,7 @@ const _styles = StyleSheet.create({
     top: 245,
     position: "absolute",
     width: 272,
-    height: 51,
+    height: 35,
     lineHeight: 16,
     fontSize: 10,
     borderRadius: 0,
