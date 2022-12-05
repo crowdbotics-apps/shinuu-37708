@@ -35,7 +35,7 @@ const _styles = StyleSheet.create({
   },
   bCIXkceR: {
     left: 35,
-    top: 222,
+    top: 344,
     position: "absolute",
     width: 104,
     height: 24,
@@ -47,7 +47,7 @@ const _styles = StyleSheet.create({
   },
   hJvvlKhC: {
     left: 35,
-    top: 268,
+    top: 289,
     position: "absolute",
     width: 102,
     height: 24,
@@ -58,8 +58,8 @@ const _styles = StyleSheet.create({
     fontWeight: "500"
   },
   idmZdeQd: {
-    left: 33,
-    top: 320,
+    left: 35,
+    top: 404,
     position: "absolute",
     width: 127,
     height: 24,
@@ -77,8 +77,8 @@ const _styles = StyleSheet.create({
     height: 67
   },
   NRwZkDfd: {
-    left: 16,
-    top: 179,
+    left: 20,
+    top: 188,
     position: "absolute",
     width: 323,
     height: 30,
