@@ -102,30 +102,30 @@ const _styles = StyleSheet.create({
     left: 80.5,
     top: 245,
     position: "absolute",
-    backgroundColor: "#eae5e5",
+    backgroundColor: "#90EE90",
     borderColor: "#cccccc",
     width: 196,
     height: 31,
-    color: "#ADD8E6"
+    color: "#000080"
   },
   TRUsuyhT: {
     left: 80.5,
     top: 286,
     position: "absolute",
-    backgroundColor: "#eae5e5",
+    backgroundColor: "#90EE90",
     borderColor: "#cccccc",
     width: 196,
     height: 31,
-    color: "#ADD8E6"
+    color: "#000080"
   },
   NMyBejyN: {
     left: 80.5,
     top: 327,
     position: "absolute",
-    backgroundColor: "#eae5e5",
+    backgroundColor: "#90EE90",
     borderColor: "#cccccc",
     width: 196,
     height: 31,
-    color: "#ADD8E6"
+    color: "#000080"
   }
 });
