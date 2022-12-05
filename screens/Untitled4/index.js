@@ -335,8 +335,8 @@ const _styles = StyleSheet.create({
     letterSpacing: 2,
     fontWeight: "900",
     position: "absolute",
-    left: 163,
-    top: 544,
+    left: 153,
+    top: 533,
     textAlign: "center"
   },
   FyvxJWBs: {
@@ -362,8 +362,8 @@ const _styles = StyleSheet.create({
     letterSpacing: 2,
     fontWeight: "900",
     position: "absolute",
-    left: 85,
-    top: 499,
+    left: 74,
+    top: 488,
     textAlign: "center"
   },
   TcPmoZyN: {
@@ -416,8 +416,8 @@ const _styles = StyleSheet.create({
     letterSpacing: 2,
     fontWeight: "900",
     position: "absolute",
-    left: 163,
-    top: 466,
+    left: 154,
+    top: 454,
     textAlign: "center"
   }
 });
