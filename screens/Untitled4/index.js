@@ -607,7 +607,7 @@ const _styles = StyleSheet.create({
     borderRadius: 0,
     position: "absolute",
     left: 141.5,
-    top: 367,
+    top: 385,
     letterSpacing: 2,
     fontWeight: "700",
     textAlign: "center"
