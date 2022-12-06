@@ -355,7 +355,8 @@ const styles = StyleSheet.create({
     left: 145,
     top: 580,
     fontWeight: "500",
-    letterSpacing: 2
+    letterSpacing: 2,
+    color: "#000080"
   }
 });
 export default AddCardDetailsScreen;
