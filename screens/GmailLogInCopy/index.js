@@ -156,20 +156,20 @@ const _styles = StyleSheet.create({
     position: "absolute",
     left: 103.5,
     top: 375,
-    borderWidth: 2
+    borderWidth: 3
   },
   RofUiLoR: {
     width: 69,
     height: 22,
     lineHeight: 16,
-    fontSize: 14,
+    fontSize: 16,
     borderRadius: 0,
     color: "#000080",
     letterSpacing: 2,
-    fontWeight: "900",
+    fontWeight: "500",
     position: "absolute",
-    left: 40.5,
-    top: 12,
+    left: 33,
+    top: 10,
     textAlign: "center"
   }
 });
