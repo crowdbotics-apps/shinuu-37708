@@ -345,7 +345,7 @@ const styles = StyleSheet.create({
     left: 111.5,
     top: 571,
     borderColor: "#ffffff",
-    borderWidth: 2
+    borderWidth: 5
   },
   oqZkrcqY: {
     width: 69,
