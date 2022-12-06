@@ -24,8 +24,8 @@ const _styles = StyleSheet.create({
     height: "100%"
   },
   wcvRUhsI: {
-    left: 98,
-    top: 580,
+    left: 94,
+    top: 602,
     position: "absolute",
     width: 169,
     height: 35,

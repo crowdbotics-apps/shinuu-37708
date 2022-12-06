@@ -34,7 +34,7 @@ const _styles = StyleSheet.create({
     height: 306
   },
   dmpzSqsb: {
-    left: 103,
+    left: 94,
     top: 602,
     position: "absolute",
     width: 169,
