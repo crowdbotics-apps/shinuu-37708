@@ -529,17 +529,17 @@ const _styles = StyleSheet.create({
     position: "absolute",
     left: 125.5,
     top: 279,
-    borderWidth: 2
+    borderWidth: 3
   },
   gSjwDmWM: {
     width: 62,
     height: 38,
     lineHeight: 16,
-    fontSize: 14,
+    fontSize: 16,
     borderRadius: 0,
     color: "#000080",
     letterSpacing: 2,
-    fontWeight: "900",
+    fontWeight: "500",
     position: "absolute",
     left: 20,
     top: 19,
