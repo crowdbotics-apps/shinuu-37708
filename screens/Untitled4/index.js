@@ -500,8 +500,8 @@ const _styles = StyleSheet.create({
     color: "#777777",
     borderColor: "#ffffff",
     position: "absolute",
-    left: 17,
-    top: 465,
+    left: 16,
+    top: 421,
     borderWidth: 2
   },
   XGSlHfrL: {
@@ -526,8 +526,8 @@ const _styles = StyleSheet.create({
     color: "#777777",
     borderColor: "#ffffff",
     position: "absolute",
-    left: 236,
-    top: 457,
+    left: 237,
+    top: 421,
     borderWidth: 2
   },
   gSjwDmWM: {
