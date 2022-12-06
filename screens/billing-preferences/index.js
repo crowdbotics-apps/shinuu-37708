@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import { Text, StyleSheet, View, SafeAreaView, ScrollView, Image, TextInput, FlatList } from "react-native";
+import { Text, StyleSheet, View, SafeAreaView, ScrollView, Image } from "react-native";
 
 const BillingPreferencesScreen = params => {
   const [billingAddress, setBillingAddress] = useState("");
@@ -22,51 +22,9 @@ const BillingPreferencesScreen = params => {
   }, []);
   return <SafeAreaView style={styles.container}>
       <ScrollView>
-        <View style={styles.header}>
-          <View style={styles.paletteContainer}>
-            <View style={styles.unSelected}>
-              <Text>Linked Cards</Text>
-            </View>
-            <View style={styles.selected}>
-              <Text>Add Card</Text>
-            </View>
-          </View>
-          <Image source={require("./assets/card.png")} style={styles.cardIcon} />
-        </View>
-        <View style={styles.cardInfo}>
-          <Image source={require("./assets/Card-large.png")} style={styles.card} />
-          <Image source={require("./assets/3Dots.png")} style={styles.threeDots} />
-          <View style={styles.inputContainer}>
-            <Text style={styles.inputText}>Billing Address</Text>
-            <TextInput style={styles.input} onChangeText={text => setBillingAddress(text)} value={billingAddress} placeholder="Enter your Billing Address" placeholderTextColor="#9B9B9B" autoCapitalize="none" autoCorrect={false} />
-          </View>
-          <View style={styles.inputContainer}>
-            <Text style={styles.inputText}>Shipping Address</Text>
-            <TextInput style={styles.input} onChangeText={text => setShippingAddress(text)} value={shippingAddress} placeholder="Enter your Shipping Address" placeholderTextColor="#9B9B9B" autoCapitalize="none" autoCorrect={false} />
-          </View>
-        </View>
-        <View style={styles.history}>
-          <View style={styles.paletteContainer}>
-            <View style={styles.selected}>
-              <Text>Purchase History</Text>
-            </View>
-            <View style={styles.unSelected}>
-              <Text>Order Status</Text>
-            </View>
-          </View>
-          <View style={styles.historyList}>
-            <Text style={styles.historyDate}>TODAY&apos;s</Text>
-            <FlatList data={todayHistory} renderItem={({
-            item
-          }) => <HistoryItem transaction={item} />} keyExtractor={item => item.id} />
-          </View>
-          <View style={styles.historyList}>
-            <Text style={styles.historyDate}>APRIL 01</Text>
-            <FlatList data={todayHistory} renderItem={({
-            item
-          }) => <HistoryItem transaction={item} />} keyExtractor={item => item.id} />
-          </View>
-        </View>
+        
+        
+        
       </ScrollView>
     </SafeAreaView>;
 };
@@ -97,7 +55,9 @@ const styles = StyleSheet.create({
     padding: 20,
     flexDirection: "row",
     justifyContent: "space-between",
-    alignItems: "center"
+    alignItems: "center",
+    backgroundColor: "#90EE90",
+    position: "absolute"
   },
   cardIcon: {
     width: 30,
@@ -130,7 +90,8 @@ const styles = StyleSheet.create({
     paddingHorizontal: 25
   },
   cardInfo: {
-    padding: 20
+    padding: 20,
+    position: "absolute"
   },
   card: {
     alignSelf: "center"
