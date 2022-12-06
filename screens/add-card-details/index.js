@@ -343,7 +343,9 @@ const styles = StyleSheet.create({
     color: "#777777",
     position: "absolute",
     left: 111.5,
-    top: 571
+    top: 571,
+    borderColor: "#ffffff",
+    borderWidth: 2
   },
   oqZkrcqY: {
     width: 69,
