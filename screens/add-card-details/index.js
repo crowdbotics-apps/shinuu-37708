@@ -360,6 +360,32 @@ const styles = StyleSheet.create({
     fontWeight: "500",
     letterSpacing: 2,
     color: "#000080"
+  },
+  tNjrohVG: {
+    height: 49,
+    width: 150,
+    backgroundColor: "#90EE90",
+    borderRadius: 26,
+    color: "#777777",
+    borderColor: "#ffffff",
+    position: "absolute",
+    left: 103.5,
+    top: 564,
+    borderWidth: 3
+  },
+  sXHwPYHT: {
+    width: 69,
+    height: 22,
+    lineHeight: 16,
+    fontSize: 16,
+    borderRadius: 0,
+    color: "#000080",
+    letterSpacing: 2,
+    fontWeight: "500",
+    position: "absolute",
+    left: 40.5,
+    top: 12,
+    textAlign: "center"
   }
 });
 export default AddCardDetailsScreen;
