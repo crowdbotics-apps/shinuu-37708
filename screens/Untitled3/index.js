@@ -20,7 +20,9 @@ const _styles = StyleSheet.create({
     backgroundColor: "#ffffff",
     padding: 10,
     position: "relative",
-    height: "100%"
+    height: "100%",
+    borderColor: "#fffefe",
+    borderWidth: 5
   },
   tfNkVbJC: {
     left: 22,
@@ -213,7 +215,9 @@ const _styles = StyleSheet.create({
     color: "#777777",
     position: "absolute",
     left: 81,
-    top: 327
+    top: 327,
+    borderWidth: 5,
+    borderColor: "#ffffff"
   },
   FxfUQwtP: {
     width: 98,
