@@ -86,7 +86,8 @@ const _styles = StyleSheet.create({
     fontWeight: "500",
     letterSpacing: 2,
     textAlign: "center",
-    color: "#000080"
+    color: "#000080",
+    transform: "rotate(0deg)"
   },
   BlZoDBFm: {
     left: 125,
@@ -172,8 +173,8 @@ const _styles = StyleSheet.create({
     fontSize: 14,
     borderRadius: 0,
     position: "absolute",
-    left: 109.5,
-    top: 391,
+    left: 102,
+    top: 462,
     letterSpacing: 2,
     fontWeight: "700",
     textAlign: "center"
@@ -266,7 +267,7 @@ const _styles = StyleSheet.create({
     borderColor: "#ffffff",
     position: "absolute",
     left: 93.5,
-    top: 316,
+    top: 388,
     borderWidth: 2
   },
   vKvXxwaz: {
@@ -322,8 +323,8 @@ const _styles = StyleSheet.create({
     borderColor: "#000080",
     borderWidth: 2,
     position: "absolute",
-    left: 138.5,
-    top: 513,
+    left: 171,
+    top: 493,
     opacity: 1,
     alignItems: "center"
   },
@@ -337,8 +338,8 @@ const _styles = StyleSheet.create({
     letterSpacing: 2,
     fontWeight: "500",
     position: "absolute",
-    left: 153,
-    top: 533,
+    left: 185,
+    top: 515,
     textAlign: "center"
   },
   FyvxJWBs: {
@@ -349,8 +350,8 @@ const _styles = StyleSheet.create({
     borderColor: "#000080",
     borderWidth: 2,
     position: "absolute",
-    left: 64,
-    top: 467,
+    left: -1,
+    top: 490,
     opacity: 1,
     alignItems: "center"
   },
@@ -364,8 +365,8 @@ const _styles = StyleSheet.create({
     letterSpacing: 2,
     fontWeight: "500",
     position: "absolute",
-    left: 74,
-    top: 488,
+    left: 8,
+    top: 512,
     textAlign: "center"
   },
   TcPmoZyN: {
@@ -376,8 +377,8 @@ const _styles = StyleSheet.create({
     borderColor: "#000080",
     borderWidth: 2,
     position: "absolute",
-    left: 212,
-    top: 468,
+    left: 255,
+    top: 494,
     opacity: 1,
     alignItems: "center"
   },
@@ -391,8 +392,8 @@ const _styles = StyleSheet.create({
     letterSpacing: 2,
     fontWeight: "500",
     position: "absolute",
-    left: 219,
-    top: 492,
+    left: 261,
+    top: 514,
     textAlign: "center"
   },
   rECHSPSD: {
@@ -403,8 +404,8 @@ const _styles = StyleSheet.create({
     borderColor: "#000080",
     borderWidth: 2,
     position: "absolute",
-    left: 138.5,
-    top: 427,
+    left: 85,
+    top: 490,
     opacity: 1,
     alignItems: "center"
   },
@@ -418,28 +419,28 @@ const _styles = StyleSheet.create({
     letterSpacing: 2,
     fontWeight: "500",
     position: "absolute",
-    left: 154,
-    top: 457,
+    left: 97,
+    top: 516,
     textAlign: "center"
   },
   PIOmdeUl: {
-    left: 80.5,
-    top: 249,
+    left: 81,
+    top: 257,
     position: "absolute",
     backgroundColor: "#90EE90",
     borderColor: "#cccccc",
     width: 196,
-    height: 31,
+    height: 35,
     color: "#ADD8E6"
   },
   YAzTtArO: {
-    left: 80.5,
-    top: 290,
+    left: 81,
+    top: 318,
     position: "absolute",
     backgroundColor: "#90EE90",
     borderColor: "#cccccc",
     width: 196,
-    height: 31,
+    height: 39,
     color: "#ADD8E6"
   }
 });
