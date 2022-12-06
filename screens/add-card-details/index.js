@@ -337,7 +337,7 @@ const styles = StyleSheet.create({
   },
   KnPwGEcr: {
     height: 39,
-    width: 134,
+    width: 196,
     backgroundColor: "#90EE90",
     borderRadius: 20,
     color: "#777777",
@@ -345,7 +345,7 @@ const styles = StyleSheet.create({
     left: 111.5,
     top: 571,
     borderColor: "#ffffff",
-    borderWidth: 5
+    borderWidth: 3
   },
   oqZkrcqY: {
     width: 69,
@@ -354,7 +354,7 @@ const styles = StyleSheet.create({
     fontSize: 16,
     borderRadius: 0,
     position: "absolute",
-    left: 145,
+    left: 179,
     top: 580,
     fontWeight: "500",
     letterSpacing: 2,
