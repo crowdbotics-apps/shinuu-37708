@@ -82,7 +82,7 @@ const _styles = StyleSheet.create({
   },
   NRwZkDfd: {
     left: 80,
-    top: 188,
+    top: 163,
     position: "absolute",
     width: 197,
     height: 30,
@@ -102,33 +102,33 @@ const _styles = StyleSheet.create({
     height: 114
   },
   ppLftlWQ: {
-    left: 80.5,
-    top: 245,
+    left: 81,
+    top: 215,
     position: "absolute",
     backgroundColor: "#90EE90",
     borderColor: "#cccccc",
     width: 196,
-    height: 31,
+    height: 39,
     color: "#000080"
   },
   TRUsuyhT: {
-    left: 80.5,
-    top: 286,
+    left: 81,
+    top: 272,
     position: "absolute",
     backgroundColor: "#90EE90",
     borderColor: "#cccccc",
     width: 196,
-    height: 31,
+    height: 38,
     color: "#000080"
   },
   NMyBejyN: {
-    left: 80.5,
+    left: 81,
     top: 327,
     position: "absolute",
     backgroundColor: "#90EE90",
     borderColor: "#cccccc",
     width: 196,
-    height: 31,
+    height: 39,
     color: "#000080"
   },
   eKqrriiv: {
