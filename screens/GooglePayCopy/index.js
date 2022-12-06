@@ -73,7 +73,7 @@ const _styles = StyleSheet.create({
     backgroundColor: "#90EE90",
     borderColor: "#cccccc",
     width: 196,
-    height: 31,
+    height: 39,
     color: "#ADD8E6"
   },
   MEuJKrmD: {
@@ -83,7 +83,7 @@ const _styles = StyleSheet.create({
     backgroundColor: "#90EE90",
     borderColor: "#cccccc",
     width: 196,
-    height: 31,
+    height: 39,
     color: "#ADD8E6"
   },
   TAwESdBY: {
