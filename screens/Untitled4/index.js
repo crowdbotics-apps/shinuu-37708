@@ -454,17 +454,17 @@ const _styles = StyleSheet.create({
     borderWidth: 2
   },
   axEmJvwf: {
-    width: 69,
+    width: 60,
     height: 35,
     lineHeight: 16,
-    fontSize: 14,
+    fontSize: 16,
     borderRadius: 0,
     color: "#000080",
     letterSpacing: 2,
-    fontWeight: "900",
+    fontWeight: "500",
     position: "absolute",
-    left: 17,
-    top: 21,
+    left: 22,
+    top: 19,
     textAlign: "center"
   },
   xUylfcsN: {
@@ -503,17 +503,17 @@ const _styles = StyleSheet.create({
     position: "absolute",
     left: -5,
     top: 401,
-    borderWidth: 2
+    borderWidth: 3
   },
   XGSlHfrL: {
-    width: 69,
+    width: 73,
     height: 35,
     lineHeight: 16,
-    fontSize: 14,
+    fontSize: 16,
     borderRadius: 0,
     color: "#000080",
     letterSpacing: 2,
-    fontWeight: "900",
+    fontWeight: "500",
     position: "absolute",
     left: 17,
     top: 21,
