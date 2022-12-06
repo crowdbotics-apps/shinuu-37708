@@ -18,30 +18,27 @@ const AddCardDetailsScreen = params => {
         <View style={styles.header}>
           <View style={styles.paletteContainer}>
             <View style={styles.unSelected}>
-              <Text>Linked Cards</Text>
+              <Text style={styles.uFldKiMK}>Linked Cards</Text>
             </View>
             <View style={styles.selected}>
-              <Text>Add Card</Text>
+              <Text style={styles.BXTyePJY}>Add Card</Text>
             </View>
           </View>
         </View>
         <View style={styles.fullInputs}>
           <View style={styles.inputContainer}>
-            <Text style={styles.inputText}>First Name</Text>
+            
             <TextInput style={styles.input} onChangeText={text => setFirstName(text)} value={firstName} placeholder="Enter your first name" placeholderTextColor="#9B9B9B" autoCapitalize="none" autoCorrect={false} />
           </View>
           <View style={styles.inputContainer}>
-            <Text style={styles.inputText}>Last Name</Text>
+            
             <TextInput style={styles.input} onChangeText={text => setLastName(text)} value={lastName} placeholder="Enter your last name" placeholderTextColor="#9B9B9B" autoCapitalize="none" autoCorrect={false} />
           </View>
           <View style={styles.inputContainer}>
-            <Text style={styles.inputText}>Address 1</Text>
+            
             <TextInput style={styles.input} onChangeText={text => setAddress1(text)} value={address1} placeholder="Enter your Adress" placeholderTextColor="#9B9B9B" autoCapitalize="none" autoCorrect={false} />
           </View>
-          <View style={styles.inputContainer}>
-            <Text style={styles.inputText}>Address 2</Text>
-            <TextInput style={styles.input} onChangeText={text => setAddress2(text)} value={address2} placeholder="Enter your Address" placeholderTextColor="#9B9B9B" autoCapitalize="none" autoCorrect={false} />
-          </View>
+          
         </View>
         <View style={styles.halfInputs}>
           <View style={styles.inputContainer}>
@@ -65,8 +62,8 @@ const AddCardDetailsScreen = params => {
         </View>
         <View style={styles.halfInputs}>
           <View style={styles.inputContainer}>
-            <Text style={styles.inputText}>Card Expiration</Text>
-            <TextInput style={styles.input} onChangeText={text => setCardExpiry(text)} value={cardExpiry} placeholder="Enter Card Expiration" placeholderTextColor="#9B9B9B" autoCapitalize="none" autoCorrect={false} />
+            Card Expiration
+            
           </View>
           <View style={styles.inputContainer}>
             <Text style={styles.inputText}>CVV</Text>
@@ -92,18 +89,22 @@ const styles = StyleSheet.create({
   header: {
     padding: 20,
     position: "absolute",
-    left: 12,
-    top: 124
+    left: 33,
+    top: 157,
+    width: 301,
+    height: 81
   },
   paletteContainer: {
     flexDirection: "row",
-    backgroundColor: "#F1F1F1",
+    backgroundColor: "#90EE90",
     height: 60,
-    width: 250,
+    width: 268,
     borderRadius: 10,
     alignItems: "center",
     justifyContent: "space-around",
-    paddingHorizontal: 15
+    paddingHorizontal: 15,
+    position: "absolute",
+    left: 16.5
   },
   selected: {
     backgroundColor: "#fff",
@@ -111,24 +112,31 @@ const styles = StyleSheet.create({
     paddingHorizontal: 25,
     borderRadius: 10,
     borderWidth: 1,
-    borderColor: "#e6e6e6"
+    borderColor: "#e6e6e6",
+    position: "absolute",
+    left: 129,
+    top: 10
   },
   unSelected: {
     padding: 10,
-    paddingHorizontal: 25
+    paddingHorizontal: 25,
+    position: "absolute",
+    left: 4,
+    top: 12,
+    width: 160,
+    height: 36
   },
   fullInputs: {
     paddingHorizontal: 20,
     justifyContent: "center",
     position: "absolute",
     left: 56,
-    top: 211
+    top: 246
   },
   inputContainer: {
-    flexDirection: "column",
-    flex: 1,
     justifyContent: "center",
-    marginHorizontal: 5
+    marginHorizontal: 5,
+    position: "relative"
   },
   inputText: {
     fontSize: 16,
@@ -150,8 +158,8 @@ const styles = StyleSheet.create({
     // borderWidth: 1,
     ,
     position: "absolute",
-    left: -11,
-    top: 483
+    left: -28,
+    top: 387
   },
   btnContainer: {
     padding: 30,
@@ -186,6 +194,19 @@ const styles = StyleSheet.create({
     position: "absolute",
     width: 190,
     height: 114
+  },
+  BXTyePJY: {
+    letterSpacing: 2,
+    lineHeight: 16,
+    top: 4,
+    left: 0
+  },
+  uFldKiMK: {
+    lineHeight: 16,
+    letterSpacing: 2,
+    position: "absolute",
+    left: 12,
+    top: 10
   }
 });
 export default AddCardDetailsScreen;
