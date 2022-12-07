@@ -317,13 +317,13 @@ const styles = StyleSheet.create({
     top: 0
   },
   xordVutk: {
-    height: 44,
-    width: 308,
+    height: 45,
+    width: 313,
     backgroundColor: "#ffffff",
     borderRadius: 20,
     color: "#777777",
     position: "absolute",
-    left: 24.5,
+    left: 22,
     top: 475,
     borderColor: "#90EE90",
     borderWidth: 1
