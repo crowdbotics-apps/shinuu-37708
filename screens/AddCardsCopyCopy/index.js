@@ -82,7 +82,7 @@ const styles = StyleSheet.create({
     color: "#000080"
   },
   fTJeMZlW: {
-    height: 42,
+    height: 41,
     width: 143,
     backgroundColor: "#90EE90",
     borderRadius: 20,
@@ -107,7 +107,7 @@ const styles = StyleSheet.create({
     textAlign: "center"
   },
   pIXrLGHG: {
-    height: 42,
+    height: 41,
     width: 147,
     backgroundColor: "#90EE90",
     borderRadius: 20,
