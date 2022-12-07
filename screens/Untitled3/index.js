@@ -248,5 +248,17 @@ const _styles = StyleSheet.create({
     textAlign: "center",
     letterSpacing: 2,
     color: "#ADD8E6"
+  },
+  tuFhbFIW: {
+    height: 39,
+    width: 196,
+    backgroundColor: "#90EE90",
+    borderRadius: 20,
+    color: "#777777",
+    position: "absolute",
+    left: 83,
+    top: 271,
+    borderColor: "#ffffff",
+    borderWidth: 3
   }
 });
