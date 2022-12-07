@@ -590,14 +590,14 @@ const styles = StyleSheet.create({
     color: "#90EE90"
   },
   ziydllCe: {
-    height: 46,
-    width: 109,
+    height: 45,
+    width: 108,
     backgroundColor: "#ffffff",
     borderRadius: 20,
     color: "#777777",
     position: "absolute",
-    left: 18,
-    top: 283,
+    left: 19,
+    top: 284,
     borderColor: "#90EE90",
     borderWidth: 1
   },
