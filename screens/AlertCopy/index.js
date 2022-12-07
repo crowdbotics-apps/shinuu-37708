@@ -160,7 +160,7 @@ const styles = StyleSheet.create({
     borderRadius: 20,
     color: "#777777",
     position: "absolute",
-    left: 29,
+    left: 24,
     top: 308,
     borderColor: "#90EE90",
     borderWidth: 3
@@ -184,7 +184,7 @@ const styles = StyleSheet.create({
     borderRadius: 20,
     color: "#777777",
     position: "absolute",
-    left: 29,
+    left: 24,
     top: 407,
     borderColor: "#90EE90",
     borderWidth: 3
@@ -232,8 +232,8 @@ const styles = StyleSheet.create({
     borderRadius: 20,
     color: "#777777",
     position: "absolute",
-    left: 29,
-    top: 456,
+    left: 24,
+    top: 354,
     borderColor: "#90EE90",
     borderWidth: 3
   },
@@ -245,7 +245,7 @@ const styles = StyleSheet.create({
     color: "#777777",
     position: "absolute",
     left: 189,
-    top: 454,
+    top: 354,
     borderColor: "#90EE90",
     borderWidth: 3
   },
@@ -323,8 +323,8 @@ const styles = StyleSheet.create({
     borderRadius: 20,
     color: "#777777",
     position: "absolute",
-    left: 26,
-    top: 354,
+    left: 24,
+    top: 454,
     borderColor: "#90EE90",
     borderWidth: 3
   },
