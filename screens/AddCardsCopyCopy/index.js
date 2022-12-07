@@ -931,7 +931,7 @@ const styles = StyleSheet.create({
   },
   gQJGqypC: {
     height: 45,
-    width: 101,
+    width: 103,
     backgroundColor: "#ffffff",
     borderRadius: 20,
     color: "#777777",
