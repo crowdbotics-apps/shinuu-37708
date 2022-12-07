@@ -156,13 +156,13 @@ const styles = StyleSheet.create({
   eLOxjFhP: {
     height: 39,
     width: 156,
-    backgroundColor: "#90EE90",
+    backgroundColor: "#ffffff",
     borderRadius: 20,
     color: "#777777",
     position: "absolute",
     left: 45,
     top: 308,
-    borderColor: "#ffffff",
+    borderColor: "#90EE90",
     borderWidth: 3
   },
   DiZjTHsg: {
