@@ -575,7 +575,7 @@ const styles = StyleSheet.create({
     color: "#777777",
     position: "relative",
     left: 21,
-    top: 284,
+    top: 285,
     borderColor: "#90EE90",
     borderWidth: 1
   },
@@ -700,7 +700,7 @@ const styles = StyleSheet.create({
     color: "#777777",
     position: "absolute",
     left: 23,
-    top: 338,
+    top: 340,
     borderColor: "#90EE90",
     borderWidth: 1
   }
