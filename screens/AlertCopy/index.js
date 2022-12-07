@@ -81,7 +81,7 @@ const styles = StyleSheet.create({
   },
   fTJeMZlW: {
     height: 42,
-    width: 142,
+    width: 143,
     backgroundColor: "#90EE90",
     borderRadius: 20,
     color: "#777777",
@@ -106,12 +106,12 @@ const styles = StyleSheet.create({
   },
   pIXrLGHG: {
     height: 42,
-    width: 143,
+    width: 147,
     backgroundColor: "#90EE90",
     borderRadius: 20,
     color: "#777777",
     position: "absolute",
-    left: 27,
+    left: 25,
     top: 222,
     borderColor: "#ffffff",
     borderWidth: 3
