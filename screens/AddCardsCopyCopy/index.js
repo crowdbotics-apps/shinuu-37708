@@ -626,17 +626,17 @@ const styles = StyleSheet.create({
   QQiWeLkS: {
     height: 42,
     width: 105,
-    backgroundColor: "#90EE90",
+    backgroundColor: "#ffffff",
     borderRadius: 20,
     color: "#777777",
     position: "absolute",
     left: 129,
     top: 285,
-    borderColor: "#ffffff",
-    borderWidth: 0
+    borderColor: "#90EE90",
+    borderWidth: 1
   },
   xfnLnWms: {
-    backgroundColor: "#90EE90",
+    backgroundColor: "#ffffff",
     borderColor: "#cccccc",
     width: 42,
     height: 29,
