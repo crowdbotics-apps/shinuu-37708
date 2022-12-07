@@ -50,7 +50,7 @@ const styles = StyleSheet.create({
     borderRadius: 20,
     color: "#777777",
     position: "absolute",
-    left: 47,
+    left: 35,
     top: 221,
     borderColor: "#ffffff",
     borderWidth: 3
@@ -111,7 +111,7 @@ const styles = StyleSheet.create({
     borderRadius: 20,
     color: "#777777",
     position: "absolute",
-    left: 42,
+    left: 36,
     top: 223,
     borderColor: "#ffffff",
     borderWidth: 3
