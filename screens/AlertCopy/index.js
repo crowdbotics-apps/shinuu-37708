@@ -160,7 +160,7 @@ const styles = StyleSheet.create({
     borderRadius: 20,
     color: "#777777",
     position: "absolute",
-    left: 28,
+    left: 24,
     top: 308,
     borderColor: "#90EE90",
     borderWidth: 1
@@ -184,7 +184,7 @@ const styles = StyleSheet.create({
     borderRadius: 20,
     color: "#777777",
     position: "absolute",
-    left: 28,
+    left: 24,
     top: 418,
     borderColor: "#90EE90",
     borderWidth: 1
@@ -232,7 +232,7 @@ const styles = StyleSheet.create({
     borderRadius: 20,
     color: "#777777",
     position: "absolute",
-    left: 28,
+    left: 24,
     top: 362,
     borderColor: "#90EE90",
     borderWidth: 1
@@ -323,7 +323,7 @@ const styles = StyleSheet.create({
     borderRadius: 20,
     color: "#777777",
     position: "absolute",
-    left: 28,
+    left: 24.5,
     top: 475,
     borderColor: "#90EE90",
     borderWidth: 1
