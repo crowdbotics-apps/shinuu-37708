@@ -163,7 +163,7 @@ const styles = StyleSheet.create({
     left: 24,
     top: 308,
     borderColor: "#90EE90",
-    borderWidth: 3
+    borderWidth: 1
   },
   DiZjTHsg: {
     height: 39,
@@ -185,9 +185,9 @@ const styles = StyleSheet.create({
     color: "#777777",
     position: "absolute",
     left: 24,
-    top: 407,
+    top: 418,
     borderColor: "#90EE90",
-    borderWidth: 3
+    borderWidth: 1
   },
   qxEgZgoY: {
     height: 39,
@@ -199,7 +199,7 @@ const styles = StyleSheet.create({
     left: 189,
     top: 306,
     borderColor: "#90EE90",
-    borderWidth: 3
+    borderWidth: 1
   },
   xLfDdjrp: {
     height: 39,
@@ -221,9 +221,9 @@ const styles = StyleSheet.create({
     color: "#777777",
     position: "absolute",
     left: 189,
-    top: 408,
+    top: 418,
     borderColor: "#90EE90",
-    borderWidth: 3
+    borderWidth: 1
   },
   lfqRMMQq: {
     height: 39,
@@ -233,9 +233,9 @@ const styles = StyleSheet.create({
     color: "#777777",
     position: "absolute",
     left: 24,
-    top: 354,
+    top: 360,
     borderColor: "#90EE90",
-    borderWidth: 3
+    borderWidth: 1
   },
   WaaOukmh: {
     height: 39,
@@ -245,9 +245,9 @@ const styles = StyleSheet.create({
     color: "#777777",
     position: "absolute",
     left: 189,
-    top: 354,
+    top: 360,
     borderColor: "#90EE90",
-    borderWidth: 3
+    borderWidth: 1
   },
   iqBoVKxe: {
     height: 39,
@@ -324,9 +324,9 @@ const styles = StyleSheet.create({
     color: "#777777",
     position: "absolute",
     left: 24,
-    top: 454,
+    top: 475,
     borderColor: "#90EE90",
-    borderWidth: 3
+    borderWidth: 1
   },
   ZZlRDSrU: {
     backgroundColor: "#ffffff",
