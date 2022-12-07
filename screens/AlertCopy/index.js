@@ -91,14 +91,14 @@ const styles = StyleSheet.create({
     borderWidth: 3
   },
   fJoqjXRC: {
-    width: 87,
-    height: 22,
+    width: 119,
+    height: 30,
     lineHeight: 16,
     fontSize: 16,
     borderRadius: 0,
     position: "absolute",
-    left: 215,
-    top: 232,
+    left: 203,
+    top: 230,
     fontWeight: "500",
     letterSpacing: 2,
     textAlign: "center"
@@ -116,14 +116,14 @@ const styles = StyleSheet.create({
     borderWidth: 3
   },
   LcFABMTh: {
-    width: 111,
-    height: 22,
+    width: 122,
+    height: 26,
     lineHeight: 16,
     fontSize: 16,
     borderRadius: 0,
     position: "absolute",
-    left: 64,
-    top: 233,
+    left: 52,
+    top: 230,
     fontWeight: "500",
     letterSpacing: 2,
     textAlign: "center",
