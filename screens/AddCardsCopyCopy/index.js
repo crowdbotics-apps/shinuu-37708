@@ -447,8 +447,8 @@ const styles = StyleSheet.create({
     color: "#777777",
     borderColor: "#ffffff",
     position: "absolute",
-    left: 103.5,
-    top: 552,
+    left: 104,
+    top: 550,
     borderWidth: 3
   },
   HmfkrKzB: {
