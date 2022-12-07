@@ -590,14 +590,14 @@ const styles = StyleSheet.create({
     color: "#90EE90"
   },
   ziydllCe: {
-    height: 40,
-    width: 105,
+    height: 45,
+    width: 109,
     backgroundColor: "#ffffff",
     borderRadius: 20,
     color: "#777777",
     position: "absolute",
-    left: 22,
-    top: 286,
+    left: 18,
+    top: 283,
     borderColor: "#90EE90",
     borderWidth: 1
   },
@@ -624,14 +624,14 @@ const styles = StyleSheet.create({
     textAlign: "center"
   },
   QQiWeLkS: {
-    height: 42,
+    height: 45,
     width: 105,
     backgroundColor: "#ffffff",
     borderRadius: 20,
     color: "#777777",
     position: "absolute",
     left: 129,
-    top: 285,
+    top: 284,
     borderColor: "#90EE90",
     borderWidth: 1
   },
@@ -658,19 +658,19 @@ const styles = StyleSheet.create({
     textAlign: "center"
   },
   SmrjiOKd: {
-    height: 41,
-    width: 94,
-    backgroundColor: "#90EE90",
+    height: 43,
+    width: 99,
+    backgroundColor: "#ffffff",
     borderRadius: 20,
     color: "#777777",
     position: "absolute",
     left: 236,
     top: 285,
-    borderColor: "#ffffff",
-    borderWidth: 0
+    borderColor: "#90EE90",
+    borderWidth: 1
   },
   opzashvK: {
-    backgroundColor: "#90EE90",
+    backgroundColor: "#ffffff",
     borderColor: "#cccccc",
     width: 28,
     height: 29,
