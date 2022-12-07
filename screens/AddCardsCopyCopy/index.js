@@ -591,7 +591,7 @@ const styles = StyleSheet.create({
   },
   ziydllCe: {
     height: 40,
-    width: 117,
+    width: 105,
     backgroundColor: "#90EE90",
     borderRadius: 20,
     color: "#777777",
@@ -604,14 +604,14 @@ const styles = StyleSheet.create({
   KxfVVCjZ: {
     backgroundColor: "#90EE90",
     borderColor: "#cccccc",
-    width: 66,
-    height: 39,
+    width: 45,
+    height: 34,
     position: "absolute",
-    left: 58,
-    top: 0
+    left: 51,
+    top: 4
   },
   BfODlGuQ: {
-    width: 46,
+    width: 42,
     height: 19,
     lineHeight: 16,
     fontSize: 16,
