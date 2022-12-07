@@ -79,14 +79,14 @@ const styles = StyleSheet.create({
     color: "#000080"
   },
   fTJeMZlW: {
-    height: 42,
-    width: 143,
+    height: 40,
+    width: 145,
     backgroundColor: "#90EE90",
     borderRadius: 20,
     color: "#777777",
     position: "absolute",
     left: 189,
-    top: 221,
+    top: 222,
     borderColor: "#ffffff",
     borderWidth: 3
   },
@@ -104,14 +104,14 @@ const styles = StyleSheet.create({
     textAlign: "center"
   },
   pIXrLGHG: {
-    height: 43,
-    width: 143,
+    height: 39,
+    width: 146,
     backgroundColor: "#90EE90",
     borderRadius: 20,
     color: "#777777",
     position: "absolute",
-    left: 48,
-    top: 222,
+    left: 42,
+    top: 223,
     borderColor: "#ffffff",
     borderWidth: 3
   },
