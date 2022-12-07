@@ -45,12 +45,12 @@ const styles = StyleSheet.create({
   },
   ygyRdaAL: {
     height: 45,
-    width: 313,
+    width: 315,
     backgroundColor: "#90EE90",
     borderRadius: 20,
     color: "#777777",
     position: "absolute",
-    left: 22,
+    left: 21,
     top: 221,
     borderColor: "#ffffff",
     borderWidth: 3
@@ -158,7 +158,7 @@ const styles = StyleSheet.create({
     borderRadius: 20,
     color: "#777777",
     position: "absolute",
-    left: 24,
+    left: 23,
     top: 308,
     borderColor: "#90EE90",
     borderWidth: 1
@@ -316,12 +316,12 @@ const styles = StyleSheet.create({
   },
   xordVutk: {
     height: 45,
-    width: 313,
+    width: 315,
     backgroundColor: "#ffffff",
     borderRadius: 20,
     color: "#777777",
     position: "absolute",
-    left: 22,
+    left: 21,
     top: 475,
     borderColor: "#90EE90",
     borderWidth: 1
@@ -380,7 +380,7 @@ const styles = StyleSheet.create({
     color: "#777777",
     position: "absolute",
     left: 129,
-    top: 362,
+    top: 361,
     borderColor: "#90EE90",
     borderWidth: 1
   },
