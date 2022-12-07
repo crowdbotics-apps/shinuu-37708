@@ -604,10 +604,10 @@ const styles = StyleSheet.create({
   KxfVVCjZ: {
     backgroundColor: "#ffffff",
     borderColor: "#cccccc",
-    width: 45,
+    width: 43,
     height: 34,
     position: "absolute",
-    left: 51,
+    left: 46,
     top: 4
   },
   BfODlGuQ: {
