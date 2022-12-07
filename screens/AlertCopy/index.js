@@ -227,7 +227,7 @@ const styles = StyleSheet.create({
   },
   lfqRMMQq: {
     height: 39,
-    width: 146,
+    width: 99,
     backgroundColor: "#ffffff",
     borderRadius: 20,
     color: "#777777",
@@ -239,7 +239,7 @@ const styles = StyleSheet.create({
   },
   WaaOukmh: {
     height: 39,
-    width: 146,
+    width: 99,
     backgroundColor: "#ffffff",
     borderRadius: 20,
     color: "#777777",
@@ -359,7 +359,7 @@ const styles = StyleSheet.create({
   uyGitWyO: {
     backgroundColor: "#ffffff",
     borderColor: "#cccccc",
-    width: 103,
+    width: 74,
     height: 28,
     position: "absolute",
     left: 12,
@@ -368,10 +368,10 @@ const styles = StyleSheet.create({
   JsHAaVFm: {
     backgroundColor: "#ffffff",
     borderColor: "#cccccc",
-    width: 109,
+    width: 76,
     height: 27,
     position: "absolute",
-    left: 16,
+    left: 11,
     top: 3
   }
 });
