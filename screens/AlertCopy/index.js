@@ -45,12 +45,12 @@ const styles = StyleSheet.create({
   },
   ygyRdaAL: {
     height: 44,
-    width: 287,
+    width: 300,
     backgroundColor: "#90EE90",
     borderRadius: 20,
     color: "#777777",
     position: "absolute",
-    left: 35,
+    left: 28.5,
     top: 221,
     borderColor: "#ffffff",
     borderWidth: 3
@@ -80,7 +80,7 @@ const styles = StyleSheet.create({
     color: "#000080"
   },
   fTJeMZlW: {
-    height: 40,
+    height: 42,
     width: 145,
     backgroundColor: "#90EE90",
     borderRadius: 20,
@@ -105,14 +105,14 @@ const styles = StyleSheet.create({
     textAlign: "center"
   },
   pIXrLGHG: {
-    height: 39,
+    height: 42,
     width: 146,
     backgroundColor: "#90EE90",
     borderRadius: 20,
     color: "#777777",
     position: "absolute",
-    left: 36,
-    top: 223,
+    left: 29,
+    top: 222,
     borderColor: "#ffffff",
     borderWidth: 3
   },
@@ -160,7 +160,7 @@ const styles = StyleSheet.create({
     borderRadius: 20,
     color: "#777777",
     position: "absolute",
-    left: 45,
+    left: 36,
     top: 308,
     borderColor: "#90EE90",
     borderWidth: 3
@@ -172,7 +172,7 @@ const styles = StyleSheet.create({
     borderRadius: 20,
     color: "#777777",
     position: "absolute",
-    left: 45,
+    left: 30,
     top: 357,
     borderColor: "#90EE90",
     borderWidth: 3
@@ -184,7 +184,7 @@ const styles = StyleSheet.create({
     borderRadius: 20,
     color: "#777777",
     position: "absolute",
-    left: 45,
+    left: 36,
     top: 407,
     borderColor: "#90EE90",
     borderWidth: 3
@@ -196,7 +196,7 @@ const styles = StyleSheet.create({
     borderRadius: 20,
     color: "#777777",
     position: "absolute",
-    left: 200,
+    left: 189,
     top: 306,
     borderColor: "#90EE90",
     borderWidth: 3
@@ -220,7 +220,7 @@ const styles = StyleSheet.create({
     borderRadius: 20,
     color: "#777777",
     position: "absolute",
-    left: 200,
+    left: 189,
     top: 406,
     borderColor: "#90EE90",
     borderWidth: 3
@@ -232,7 +232,7 @@ const styles = StyleSheet.create({
     borderRadius: 20,
     color: "#777777",
     position: "absolute",
-    left: 45,
+    left: 36,
     top: 456,
     borderColor: "#90EE90",
     borderWidth: 3
@@ -244,7 +244,7 @@ const styles = StyleSheet.create({
     borderRadius: 20,
     color: "#777777",
     position: "absolute",
-    left: 200,
+    left: 189,
     top: 454,
     borderColor: "#90EE90",
     borderWidth: 3
@@ -256,7 +256,7 @@ const styles = StyleSheet.create({
     borderRadius: 20,
     color: "#777777",
     position: "absolute",
-    left: 45,
+    left: 36,
     top: 505,
     borderColor: "#90EE90",
     borderWidth: 3
@@ -268,7 +268,7 @@ const styles = StyleSheet.create({
     borderRadius: 20,
     color: "#777777",
     position: "absolute",
-    left: 200,
+    left: 189,
     top: 503,
     borderColor: "#90EE90",
     borderWidth: 3
