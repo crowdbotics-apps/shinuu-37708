@@ -631,7 +631,7 @@ const styles = StyleSheet.create({
     color: "#777777",
     position: "absolute",
     left: 129,
-    top: 286,
+    top: 287,
     borderColor: "#ffffff",
     borderWidth: 0
   },
@@ -639,20 +639,20 @@ const styles = StyleSheet.create({
     backgroundColor: "#90EE90",
     borderColor: "#cccccc",
     width: 49,
-    height: 34,
+    height: 26,
     position: "absolute",
     left: 47,
-    top: 4
+    top: 7
   },
   BYDhCXlm: {
-    width: 42,
-    height: 19,
+    width: 35,
+    height: 17,
     lineHeight: 16,
     fontSize: 16,
     borderRadius: 0,
     position: "absolute",
     left: 135,
-    top: 296,
+    top: 298,
     fontWeight: "400",
     letterSpacing: 2,
     textAlign: "center"
