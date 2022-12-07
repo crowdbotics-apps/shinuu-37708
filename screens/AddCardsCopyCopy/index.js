@@ -592,17 +592,17 @@ const styles = StyleSheet.create({
   ziydllCe: {
     height: 40,
     width: 105,
-    backgroundColor: "#90EE90",
+    backgroundColor: "#ffffff",
     borderRadius: 20,
     color: "#777777",
     position: "absolute",
     left: 22,
     top: 286,
-    borderColor: "#ffffff",
-    borderWidth: 0
+    borderColor: "#90EE90",
+    borderWidth: 1
   },
   KxfVVCjZ: {
-    backgroundColor: "#90EE90",
+    backgroundColor: "#ffffff",
     borderColor: "#cccccc",
     width: 45,
     height: 34,
@@ -612,13 +612,13 @@ const styles = StyleSheet.create({
   },
   BfODlGuQ: {
     width: 42,
-    height: 19,
+    height: 17,
     lineHeight: 16,
     fontSize: 14,
     borderRadius: 0,
     position: "absolute",
     left: 30,
-    top: 297,
+    top: 299,
     fontWeight: "400",
     letterSpacing: 2,
     textAlign: "center"
