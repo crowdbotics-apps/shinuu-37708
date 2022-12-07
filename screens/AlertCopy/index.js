@@ -196,7 +196,7 @@ const styles = StyleSheet.create({
     borderRadius: 20,
     color: "#777777",
     position: "absolute",
-    left: 204,
+    left: 200,
     top: 306,
     borderColor: "#90EE90",
     borderWidth: 3
