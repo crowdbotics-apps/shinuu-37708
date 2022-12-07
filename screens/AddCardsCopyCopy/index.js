@@ -577,7 +577,7 @@ const styles = StyleSheet.create({
     left: 19,
     top: 284,
     borderColor: "#90EE90",
-    borderWidth: 3
+    borderWidth: 1
   },
   HwbuUsWu: {
     backgroundColor: "#ffffff",
@@ -658,7 +658,7 @@ const styles = StyleSheet.create({
     textAlign: "center"
   },
   SmrjiOKd: {
-    height: 43,
+    height: 41,
     width: 94,
     backgroundColor: "#90EE90",
     borderRadius: 20,
