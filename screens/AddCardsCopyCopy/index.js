@@ -605,7 +605,7 @@ const styles = StyleSheet.create({
     backgroundColor: "#90EE90",
     borderColor: "#cccccc",
     width: 66,
-    height: 41,
+    height: 39,
     position: "absolute",
     left: 58,
     top: 0
@@ -617,8 +617,8 @@ const styles = StyleSheet.create({
     fontSize: 16,
     borderRadius: 0,
     position: "absolute",
-    left: 34,
-    top: 295,
+    left: 27,
+    top: 296,
     fontWeight: "400",
     letterSpacing: 2,
     textAlign: "center"
