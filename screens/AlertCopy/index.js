@@ -215,13 +215,13 @@ const styles = StyleSheet.create({
   },
   EKTdtXsc: {
     height: 39,
-    width: 146,
+    width: 99,
     backgroundColor: "#ffffff",
     borderRadius: 20,
     color: "#777777",
     position: "absolute",
-    left: 189,
-    top: 418,
+    left: 237,
+    top: 360,
     borderColor: "#90EE90",
     borderWidth: 1
   },
@@ -239,13 +239,13 @@ const styles = StyleSheet.create({
   },
   WaaOukmh: {
     height: 39,
-    width: 99,
+    width: 84,
     backgroundColor: "#ffffff",
     borderRadius: 20,
     color: "#777777",
     position: "absolute",
-    left: 189,
-    top: 360,
+    left: 132,
+    top: 361,
     borderColor: "#90EE90",
     borderWidth: 1
   },
@@ -350,8 +350,8 @@ const styles = StyleSheet.create({
   IeCdyoBq: {
     backgroundColor: "#ffffff",
     borderColor: "#cccccc",
-    width: 110,
-    height: 27,
+    width: 73,
+    height: 32,
     position: "absolute",
     left: 14,
     top: 2
@@ -368,7 +368,7 @@ const styles = StyleSheet.create({
   JsHAaVFm: {
     backgroundColor: "#ffffff",
     borderColor: "#cccccc",
-    width: 76,
+    width: 64,
     height: 27,
     position: "absolute",
     left: 11,
