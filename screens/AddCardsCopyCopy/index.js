@@ -571,14 +571,14 @@ const styles = StyleSheet.create({
   trovmrGm: {
     height: 3,
     width: 315,
-    backgroundColor: "#ffffff",
+    backgroundColor: "#90EE90",
     borderRadius: 20,
     color: "#777777",
     position: "relative",
     left: 21,
     top: 285,
-    borderColor: "#fff",
-    borderWidth: 1
+    borderColor: "#90EE90",
+    borderWidth: 0
   },
   HwbuUsWu: {
     backgroundColor: "#ffffff",
