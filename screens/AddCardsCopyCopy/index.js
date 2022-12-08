@@ -569,7 +569,7 @@ const styles = StyleSheet.create({
     borderWidth: 3
   },
   trovmrGm: {
-    height: 45,
+    height: 3,
     width: 315,
     backgroundColor: "#ffffff",
     borderRadius: 20,
