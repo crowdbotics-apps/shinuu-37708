@@ -701,7 +701,7 @@ const styles = StyleSheet.create({
     position: "absolute",
     left: 23,
     top: 340,
-    borderColor: "#90EE90",
+    borderColor: "#fff",
     borderWidth: 1
   },
   VTHScAMz: {
