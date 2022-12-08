@@ -18,7 +18,8 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     backgroundColor: "#ffffff",
-    borderRadius: 0
+    borderRadius: 0,
+    borderColor: "#000000"
   },
   heading: {
     fontSize: 20
@@ -576,7 +577,7 @@ const styles = StyleSheet.create({
     position: "relative",
     left: 21,
     top: 285,
-    borderColor: "#90EE90",
+    borderColor: "#fff",
     borderWidth: 1
   },
   HwbuUsWu: {
@@ -713,7 +714,7 @@ const styles = StyleSheet.create({
     position: "absolute",
     left: 21,
     top: 395,
-    borderColor: "#90EE90",
+    borderColor: "#fff",
     borderWidth: 1
   },
   jSOZkSiS: {
@@ -725,7 +726,7 @@ const styles = StyleSheet.create({
     position: "absolute",
     left: 21,
     top: 445,
-    borderColor: "#90EE90",
+    borderColor: "#fff",
     borderWidth: 1
   },
   MQKxhMrw: {
@@ -737,7 +738,7 @@ const styles = StyleSheet.create({
     position: "absolute",
     left: 21,
     top: 500,
-    borderColor: "#90EE90",
+    borderColor: "#fff",
     borderWidth: 1
   },
   KjqoPhDB: {
