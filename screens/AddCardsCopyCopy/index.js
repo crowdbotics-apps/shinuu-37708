@@ -599,8 +599,8 @@ const styles = StyleSheet.create({
     position: "absolute",
     left: 21,
     top: 285,
-    borderColor: "#90EE90",
-    borderWidth: 1
+    borderColor: "#FFFFFF",
+    borderWidth: 0
   },
   KxfVVCjZ: {
     backgroundColor: "#ffffff",
@@ -667,8 +667,8 @@ const styles = StyleSheet.create({
     position: "absolute",
     left: 235,
     top: 285,
-    borderColor: "#90EE90",
-    borderWidth: 1
+    borderColor: "#FFFFFF",
+    borderWidth: 0
   },
   opzashvK: {
     backgroundColor: "#ffffff",
