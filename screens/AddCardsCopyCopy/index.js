@@ -750,8 +750,8 @@ const styles = StyleSheet.create({
     position: "absolute",
     left: 23,
     top: 341,
-    borderColor: "#90EE90",
-    borderWidth: 1
+    borderColor: "#FFFFFF",
+    borderWidth: 0
   },
   zxOaUDzm: {
     backgroundColor: "#ffffff",
@@ -771,8 +771,8 @@ const styles = StyleSheet.create({
     position: "absolute",
     left: 21,
     top: 395,
-    borderColor: "#90EE90",
-    borderWidth: 1
+    borderColor: "#FFFFFF",
+    borderWidth: 0
   },
   ShEpssCW: {
     backgroundColor: "#ffffff",
@@ -792,8 +792,8 @@ const styles = StyleSheet.create({
     position: "absolute",
     left: 21,
     top: 445,
-    borderColor: "#90EE90",
-    borderWidth: 1
+    borderColor: "#FFFFFF",
+    borderWidth: 0
   },
   YGFQTRzU: {
     backgroundColor: "#ffffff",
@@ -813,8 +813,8 @@ const styles = StyleSheet.create({
     position: "absolute",
     left: 21,
     top: 500,
-    borderColor: "#90EE90",
-    borderWidth: 1
+    borderColor: "#FFFFFF",
+    borderWidth: 0
   },
   rcVXghTd: {
     backgroundColor: "#ffffff",
@@ -939,8 +939,8 @@ const styles = StyleSheet.create({
     position: "absolute",
     left: 235,
     top: 340,
-    borderColor: "#90EE90",
-    borderWidth: 1
+    borderColor: "#FFFFFF",
+    borderWidth: 0
   },
   BXUHzgSZ: {
     backgroundColor: "#ffffff",
@@ -961,8 +961,8 @@ const styles = StyleSheet.create({
     position: "absolute",
     left: 235,
     top: 395,
-    borderColor: "#90EE90",
-    borderWidth: 1
+    borderColor: "#FFFFFF",
+    borderWidth: 0
   },
   vFebmwQq: {
     backgroundColor: "#ffffff",
@@ -983,8 +983,8 @@ const styles = StyleSheet.create({
     position: "absolute",
     left: 235,
     top: 445,
-    borderColor: "#90EE90",
-    borderWidth: 1
+    borderColor: "#FFFFFF",
+    borderWidth: 0
   },
   uNkjgIAj: {
     backgroundColor: "#ffffff",
@@ -1005,8 +1005,8 @@ const styles = StyleSheet.create({
     position: "absolute",
     left: 235,
     top: 500,
-    borderColor: "#90EE90",
-    borderWidth: 1
+    borderColor: "#FFFFFF",
+    borderWidth: 0
   },
   jHmtaPzn: {
     backgroundColor: "#ffffff",
